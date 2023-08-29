@@ -1,0 +1,24 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "A future web-based chat app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blynt/chat.git"
+  },
+  "author": "Fredrik Berglund (blynt)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blynt/chat/issues"
+  },
+  "homepage": "https://github.com/blynt/chat#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
